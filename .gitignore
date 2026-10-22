@@ -1,0 +1,4 @@
+# 비밀키
+.env
+.env.*
+!.env.example
