@@ -2,3 +2,4 @@
 # lotto.py는 표준 라이브러리(random, tkinter, datetime)만 사용하므로 설치할 패키지가 없습니다.
 
 streamlit
+tzdata  # Windows에서 zoneinfo(Asia/Seoul)에 필요
